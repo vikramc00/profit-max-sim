@@ -19,11 +19,3 @@ Constructed a greedy-based, graph algorithm, using edge removal, and implemented
 ## Testing
 - Run the solver using python3 solver.py test.in
 - retrieve outputs in submission.json using python3 prepare_submission.py outputs/ submission.json
-
-
-
-
-
-
-
-(Problem Source: CS170: Efficient Algorithms and Intractable Problems)
